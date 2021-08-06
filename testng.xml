@@ -1,0 +1,66 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Barcodes_TestNG session">
+
+	<listeners>
+		<listener class-name="listener.ExtentReporterNG" />
+		<listener class-name="listener.ListenerTest" />
+	</listeners>
+
+	<!--  <test name="Login">
+		<classes>
+			<class name="TestCases.SC_01_LoginTest" />
+		</classes>
+	</test>
+
+	<test name="Dashboard">
+		<classes>
+			<class name="TestCases.SC_02_DashboardTest" />
+		</classes>
+	</test>
+	<test name="My Tickets">
+		<classes>
+			<class name="TestCases.SC_03_MyTicketsTest" />
+		</classes>
+	</test> <test name="Ticket Detail"> <classes> <class name="TestCases.SC_04_TicketDetailTest" 
+		/> </classes> </test> 
+	<test name="Create Ticket">
+		<classes>
+			<class name="TestCases.SC_05_CreateTicketTest" />
+		</classes>
+	</test>
+	<test name="My Assets">
+		<classes>
+			<class name="TestCases.SC_06_MyAssetsTest" />
+		</classes>
+	</test>
+	<test name="Create Asset">
+		<classes>
+			<class name="TestCases.SC_07_CreateAssetTest" />
+		</classes>
+	</test>
+	<test name="Asset Detail Screen">
+		<classes>
+			<class name="TestCases.SC_08_AssetDetailScreenTest" />
+		</classes>
+	</test>
+	<test name="My Contracts">
+		<classes>
+			<class name="TestCases.SC_09_MyContractsTest" />
+		</classes>
+	</test>
+	<test name="Add Contract">
+		<classes>
+			<class name="TestCases.SC_10_AddContractTest" />
+		</classes>
+	</test>
+	<test name="Export">
+		<classes>
+			<class name="TestCases.SC_11_ExportToCSVTest" />
+		</classes>
+	</test>-->
+	<test name="Product Verification">
+		<classes>
+			<class name="TestCases.SC_12_ProductAndModelVerficationTest" />
+		</classes>
+	</test>
+</suite>

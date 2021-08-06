@@ -1,0 +1,29 @@
+2021-08-06T12:50:56.927+0530 INFO *******************TestCases.SC_12_ProductAndModelVerficationTest.TC_01_verifyMobileScanner started*******************
+2021-08-06T12:50:57.069+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //a[@href='/store/customer/account/']]
+2021-08-06T12:50:57.099+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //a[@href='/store/customer/account/']]
+2021-08-06T12:51:03.255+0530 INFO clicked on My Account
+2021-08-06T12:51:03.645+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //span[contains(text(),'my account')]]
+2021-08-06T12:51:03.675+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //span[contains(text(),'my account')]]
+2021-08-06T12:51:03.816+0530 INFO clicked on My Account
+2021-08-06T12:51:03.846+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //input[@name='login[username]']]
+2021-08-06T12:51:03.867+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //input[@name='login[username]']]
+2021-08-06T12:51:04.164+0530 INFO Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //input[@name='login[username]']]
+2021-08-06T12:51:04.912+0530 INFO Entering the username/ email
+2021-08-06T12:51:04.993+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //input[@name='login[password]']]
+2021-08-06T12:51:05.018+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //input[@name='login[password]']]
+2021-08-06T12:51:05.436+0530 INFO Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //input[@name='login[password]']]
+2021-08-06T12:51:06.671+0530 INFO entering the password
+2021-08-06T12:51:06.725+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: (//button[@id='send2'])[1]]
+2021-08-06T12:51:06.756+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: (//button[@id='send2'])[1]]
+2021-08-06T12:51:14.220+0530 INFO clicked on Sign-In Button
+2021-08-06T12:51:14.285+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: (//li//a[contains(text(),'Computing')])[1]]
+2021-08-06T12:51:14.303+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: (//li//a[contains(text(),'Computing')])[1]]
+2021-08-06T12:51:18.858+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //a[text()='Mobile Handheld Computer']]
+2021-08-06T12:51:18.979+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //a[text()='Mobile Handheld Computer']]
+2021-08-06T12:51:27.668+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //div[@class='product_title']//h1]
+2021-08-06T12:51:27.706+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //div[@class='product_title']//h1]
+2021-08-06T12:51:28.404+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //div[@class='product_description']]
+2021-08-06T12:51:28.430+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //div[@class='product_description']]
+2021-08-06T12:51:28.651+0530 INFO arguments[0].scrollIntoView();
+2021-08-06T12:51:28.748+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //span[@class='modelname']]
+2021-08-06T12:51:28.749+0530 INFO Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c2b46b60f889749f859f010502361f09)] -> xpath: //span[@class='modelname']]
